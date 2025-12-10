@@ -1,0 +1,11 @@
+Comparison of Model Performance:
+
+ARIMA → 
+RMSE: 1.51, 
+MAE: 1.29
+
+Prophet → 
+RMSE: 13.96, 
+MAE: 13.85
+
+Best Model: ARIMA
